@@ -1,1 +1,1 @@
-My first readme
+i depend only on you
